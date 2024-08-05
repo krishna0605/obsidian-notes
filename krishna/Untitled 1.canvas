@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fe637f5c3e7d25d6","x":-388,"y":-344,"width":448,"height":564,"type":"file","file":"cohort 3.0/day 1.md"},
+		{"id":"3b8d72f227b3c9cc","x":163,"y":-294,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"81f5f1df160b5ebb","fromNode":"fe637f5c3e7d25d6","fromSide":"right","toNode":"3b8d72f227b3c9cc","toSide":"left"}
+	]
+}

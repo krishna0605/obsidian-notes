@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d1929bba67c083dd","type":"text","text":"sdf","x":-920,"y":-700,"width":250,"height":250,"color":"1"},
+		{"id":"cc4c275038a9d3ae","type":"file","file":"notes/malware.md","x":-340,"y":-740,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"90e05abfabe849ac","fromNode":"d1929bba67c083dd","fromSide":"right","toNode":"cc4c275038a9d3ae","toSide":"left"}
+	]
+}
