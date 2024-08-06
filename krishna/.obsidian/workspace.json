@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
-                "mode": "preview",
+                "file": "docker/gdg gen ai day.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "docker/gdg gen ai day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "docker/gdg gen ai day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernettes/kubernetes 1.md"
+                "file": "docker/gdg gen ai day.md"
               }
             }
           }
@@ -164,14 +164,18 @@
   },
   "active": "272175bc077b89ad",
   "lastOpenFiles": [
+    "docker/Intro to docker.md",
+    "notes/Untitled.md",
+    "notes/Security Is A Myth Cybersecurity in the Modern Age.md",
+    "notes/Pasted image 20240615184828.png",
+    "notes/android application testing.md",
+    "github campus experts/question 1.md",
     "Untitled 1.canvas",
     "kubernettes/kubernetes 1.md",
     "kubernettes",
     "Untitled 2.canvas",
     "cohort 3.0/day 1.md",
-    "notes/Security Is A Myth Cybersecurity in the Modern Age.md",
     "Untitled.canvas",
-    "github campus experts/question 1.md",
     "notes/burpsuite.md",
     "docker/gdg gen ai day.md",
     "docker/Pasted image 20240630111920.png",
@@ -181,11 +185,7 @@
     "py.md",
     "Welcome.md",
     "2024-06-17.md",
-    "docker/Intro to docker.md",
     "notes/malware.md",
-    "notes/Pasted image 20240615184828.png",
-    "notes/Untitled.md",
-    "notes/android application testing.md",
     "cohort 3.0",
     "github campus experts/poiint.md",
     "github campus experts",

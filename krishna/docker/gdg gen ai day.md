@@ -190,7 +190,7 @@ Run this script, and it will start a local server with Gradio where you can inte
 You’ve now created a simple Gemini-powered application using either Streamlit or Gradio, and deployed it without relying on LangChain. This setup
 should help you get started with integrating Gemini into your projects in various environments.
 
-API KEY : AIzaSyAkqcgDEfcFrvmGisHuMDswTc9B73OLT2o
+API KEY : 
 
 codon's
 
