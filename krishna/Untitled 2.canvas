@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"11ccf64e0414fa2a","x":300,"y":5,"width":265,"height":100,"type":"text","text":"## Computer Fundamentals"},
+		{"id":"0aade2f8e4ce4431","x":640,"y":11,"width":365,"height":88,"type":"text","text":"Only if you have no idea of computer , this will teach very basics, Good to learn, but skip if you have been using computers"},
+		{"id":"aa199042745a33f5","x":-120,"y":-400,"width":265,"height":170,"type":"text","text":"# Cyber Security Roadmap\n(Starting The Journe)"}
+	],
+	"edges":[
+		{"id":"bcb28adf14693426","fromNode":"aa199042745a33f5","fromSide":"right","toNode":"11ccf64e0414fa2a","toSide":"left"},
+		{"id":"de1a1798ac065f5a","fromNode":"11ccf64e0414fa2a","fromSide":"right","toNode":"0aade2f8e4ce4431","toSide":"left"}
+	]
+}
