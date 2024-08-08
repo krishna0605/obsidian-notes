@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: obsidian vault krishna new
-created: 2024-08-08T23:13:38+05:30
