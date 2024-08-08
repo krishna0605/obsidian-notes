@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cohort 3.0/day 1.md",
+                "file": "college notes/cyber security notes xampp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cohort 3.0/day 1.md",
+                "file": "college notes/cyber security notes xampp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cohort 3.0/day 1.md",
+                "file": "college notes/cyber security notes xampp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cohort 3.0/day 1.md"
+                "file": "college notes/cyber security notes xampp.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c458adb9c3e71e91",
+  "active": "fea882ba268edfea",
   "lastOpenFiles": [
+    "college notes/cyber security DVWA.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "cohort 3.0/day 1.md",
     "docker/docker 1.md",
     "docker/docker 2.md",
     "kubernettes/kubernetes 2.md",
@@ -161,7 +166,6 @@
     "Pasted image 20240808211733.png",
     "Pasted image 20240808211432.png",
     "Pasted image 20240807154504.png",
-    "cyber security DVWA.md",
     "Pasted image 20240807154631.png",
     "Pasted image 20240807154529.png",
     "Pasted image 20240807154434.png",
@@ -175,9 +179,6 @@
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 1.md",
     "notes/Phishing Attack.md",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
     "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
     "notes/Untitled 1",
@@ -189,10 +190,8 @@
     "notes/Untitled 1/Security Is A Myth Cybersecurity in the Modern Age.md",
     "github campus experts/question 1.md",
     "kubernettes",
-    "cohort 3.0/day 1.md",
     "py.md",
     "Welcome.md",
-    "2024-06-17.md",
     "cohort 3.0",
     "github campus experts",
     "Untitled",
