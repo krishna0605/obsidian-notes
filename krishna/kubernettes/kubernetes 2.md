@@ -1,4 +1,4 @@
-[[kubernetes 3]]
+
 
 # Recapping what we’ve done
 
