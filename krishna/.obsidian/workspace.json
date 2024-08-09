@@ -11,8 +11,12 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "svelte/Server-side component API.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "svelte/Server-side component API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "svelte/Server-side component API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "svelte/Server-side component API.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "svelte/Custom elements API.md",
     "NextJS/NextJS (Client side).md",
     "NextJS/NextJS (Server side).md",
     "NextJS/graph nextjs.md",
@@ -164,7 +173,6 @@
     "docker/docker 2.md",
     "docker/docker ultimate.md",
     "docker/Intro to docker.md",
-    "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
     "svelte/svelte client side srever.md",
     "GDG/gdg gen ai day.md",
