@@ -11,11 +11,14 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 442.5,
+                  "y": -147.5,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
+                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
+                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDG/gdg gen ai day.md"
+                "file": "Untitled 2.canvas"
               }
             }
           }
@@ -148,12 +151,12 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
-    "college notes/cyber security DVWA.md",
-    "GDG/gdg gen ai day.md",
-    "college notes/cyber security notes xampp.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
     "Untitled 1.canvas",
+    "Untitled.canvas",
+    "GDG/gdg gen ai day.md",
+    "college notes/cyber security DVWA.md",
+    "college notes/cyber security notes xampp.md",
+    "Untitled 2.canvas",
     "cohort 3.0/day 1.md",
     "docker/docker 1.md",
     "docker/docker 2.md",
