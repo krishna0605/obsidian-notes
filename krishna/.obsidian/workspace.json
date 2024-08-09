@@ -11,14 +11,11 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 442.5,
-                  "y": -147.5,
-                  "zoom": 0
-                }
+                "file": "NextJS/NextJS (Server side).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "NextJS/NextJS (Server side).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
+                "file": "NextJS/NextJS (Server side).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.canvas"
+                "file": "NextJS/NextJS (Server side).md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "GDG/gdg gen ai day.md",
     "college notes/cyber security DVWA.md",
