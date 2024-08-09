@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernettes/kubernetes 1.md"
+                "file": "kubernettes/kubernetes 2.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "kubernettes/kubernetes 1.md",
     "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
     "svelte/svelte client side srever.md",
@@ -171,7 +172,6 @@
     "docker/docker ultimate.md",
     "docker/docker 1.md",
     "kubernettes/kubernetes 2.md",
-    "kubernettes/kubernetes 1.md",
     "notes/Untitled 1/burpsuite.md",
     "Pasted image 20240809101159.png",
     "xampp to google cloud.md",
