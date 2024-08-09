@@ -91,8 +91,7 @@ When constructing a custom element, you can tailor several aspects by defining 
 ...
 ```
 
-## Caveats and limitations[permalink](https://svelte.dev/docs/custom-elements-api#caveats-and-limitations)
-
+## Caveats and limitations
 Custom elements can be a useful way to package components for consumption in a non-Svelte app, as they will work with vanilla HTML and JavaScript as well as [most frameworks](https://custom-elements-everywhere.com/). There are, however, some important differences to be aware of:
 
 - Styles are _encapsulated_, rather than merely _scoped_ (unless you set `shadow: "none"`). This means that any non-component styles (such as you might have in a `global.css` file) will not apply to the custom element, including styles with the `:global(...)` modifier
