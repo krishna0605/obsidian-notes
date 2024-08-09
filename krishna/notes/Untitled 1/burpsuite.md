@@ -82,6 +82,7 @@ cve number
  # Practical Malware Analysis Paperback – 1 February 2012
 
 
+hash codes 
 
 d41d8cd98f00b204e9800998ecf8427e	$ObjId
 d41d8cd98f00b204e9800998ecf8427e	$Quota
