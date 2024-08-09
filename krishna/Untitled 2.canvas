@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"11ccf64e0414fa2a","x":300,"y":5,"width":265,"height":100,"type":"text","text":"## Computer Fundamentals"},
-		{"id":"0aade2f8e4ce4431","x":640,"y":11,"width":365,"height":88,"type":"text","text":"Only if you have no idea of computer , this will teach very basics, Good to learn, but skip if you have been using computers"},
-		{"id":"aa199042745a33f5","x":-120,"y":-400,"width":265,"height":170,"type":"text","text":"# Cyber Security Roadmap\n(Starting The Journe)"}
+		{"id":"0aade2f8e4ce4431","type":"text","text":"Only if you have no idea of computer , this will teach very basics, Good to learn, but skip if you have been using computers","x":640,"y":11,"width":365,"height":88},
+		{"id":"aa199042745a33f5","type":"text","text":"# Cyber Security Roadmap\n(Starting The Journe)","x":-120,"y":-400,"width":265,"height":170},
+		{"id":"11ccf64e0414fa2a","type":"text","text":"## Computer Fundamentals","x":260,"y":-180,"width":265,"height":100}
 	],
 	"edges":[
 		{"id":"bcb28adf14693426","fromNode":"aa199042745a33f5","fromSide":"right","toNode":"11ccf64e0414fa2a","toSide":"left"},
