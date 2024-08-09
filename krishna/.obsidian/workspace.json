@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xampp to google cloud.md",
+                "file": "notes/Untitled 1/burpsuite.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xampp to google cloud.md",
+                "file": "notes/Untitled 1/burpsuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xampp to google cloud.md",
+                "file": "notes/Untitled 1/burpsuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xampp to google cloud.md"
+                "file": "notes/Untitled 1/burpsuite.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "806d3711eda416a7",
   "lastOpenFiles": [
-    "NextJS/NextJS (Server side).md",
+    "notes/Phishing Attack.md",
+    "notes/dynamic malware analysis.md",
     "xampp to google cloud.md",
+    "NextJS/NextJS (Server side).md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -193,8 +195,6 @@
     "docker/Untitled",
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 1.md",
-    "notes/Phishing Attack.md",
-    "notes/dynamic malware analysis.md",
     "notes/Untitled 1",
     "college notes",
     "Untitled/DV.md",
