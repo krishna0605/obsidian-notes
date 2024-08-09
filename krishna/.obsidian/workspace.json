@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dynamic malware analysis.md",
+                "file": "notes/Phishing Attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dynamic malware analysis.md",
+                "file": "NextJS/NextJS (Server side).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dynamic malware analysis.md",
+                "file": "NextJS/NextJS (Server side).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/dynamic malware analysis.md"
+                "file": "NextJS/NextJS (Server side).md"
               }
             }
           }
@@ -159,16 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "806d3711eda416a7",
+  "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "notes/Phishing Attack.md",
+    "notes/dynamic malware analysis.md",
     "docker/docker ultimate.md",
     "docker/docker 1.md",
     "kubernettes/kubernetes 2.md",
     "kubernettes/kubernetes 1.md",
     "notes/Untitled 1/burpsuite.md",
     "Pasted image 20240809101159.png",
-    "notes/Phishing Attack.md",
-    "notes/dynamic malware analysis.md",
     "xampp to google cloud.md",
     "NextJS/NextJS (Server side).md",
     "Untitled 2.canvas",
