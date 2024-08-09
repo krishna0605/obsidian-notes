@@ -1,4 +1,4 @@
-
+[[NextJS (Server side)]]
 # Step 1 - NextJS Intro, Pre-requisites
 
 ### Pre-requisites

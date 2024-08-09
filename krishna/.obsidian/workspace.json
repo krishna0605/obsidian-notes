@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "docker/docker 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "docker/docker 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "docker/docker 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernettes/kubernetes 1.md"
+                "file": "docker/docker 2.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
-    "kubernettes/kubernetes 2.md",
+    "docker/docker 1.md",
+    "NextJS/NextJS (Client side).md",
     "kubernettes/kubernetes 1.md",
+    "kubernettes/kubernetes 2.md",
     "kubernettes/kubernetes 3.md",
     "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
@@ -172,7 +174,6 @@
     "notes/Phishing Attack.md",
     "notes/dynamic malware analysis.md",
     "docker/docker ultimate.md",
-    "docker/docker 1.md",
     "notes/Untitled 1/burpsuite.md",
     "Pasted image 20240809101159.png",
     "xampp to google cloud.md",
@@ -184,7 +185,6 @@
     "cohort 3.0/day 1.md",
     "docker/docker 2.md",
     "notes/Untitled 1/android application testing.md",
-    "NextJS/NextJS (Client side).md",
     "NextJS",
     "docker/Untitled/Pasted image 20240630112543.png",
     "Pasted image 20240808211620.png",
