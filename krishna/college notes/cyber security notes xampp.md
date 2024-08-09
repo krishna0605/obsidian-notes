@@ -17,7 +17,7 @@ Primary uses:
 
 Cybersecurity relevance:
 
-1. Testing environment: Security professionals can use XAMPP to set up a controlled environment for testing web applications for vulnerabilities.
+1. Testing environment: Security professionals can use XAMPP to set up a controlled environment for testing web applications forlne vurabilities.
 
 2. Penetration testing: Ethical hackers might use XAMPP to create intentionally vulnerable web applications for practice or training purposes.
 
