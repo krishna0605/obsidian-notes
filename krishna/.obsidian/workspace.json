@@ -11,8 +11,12 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NextJS/NextJS (Client side).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NextJS/NextJS (Client side).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NextJS/NextJS (Client side).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NextJS/NextJS (Client side).md"
+              }
             }
           }
         ]
@@ -152,6 +160,9 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "NextJS/NextJS (Server side).md",
+    "NextJS/graph nextjs.md",
+    "NextJS/NextJS (Client side).md",
     "kubernettes/kubernetes graph.md",
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 2.md",
@@ -161,12 +172,10 @@
     "docker/docker 2.md",
     "docker/docker ultimate.md",
     "docker/Intro to docker.md",
-    "NextJS/NextJS (Client side).md",
     "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
     "svelte/svelte client side srever.md",
     "GDG/gdg gen ai day.md",
-    "NextJS/NextJS (Server side).md",
     "svelte",
     "notes/Phishing Attack.md",
     "notes/dynamic malware analysis.md",
@@ -196,7 +205,6 @@
     "notes/Untitled 1",
     "college notes",
     "Untitled/DV.md",
-    "notes/Untitled 1/Untitled.md",
     "kubernettes",
     "cohort 3.0",
     "github campus experts",
