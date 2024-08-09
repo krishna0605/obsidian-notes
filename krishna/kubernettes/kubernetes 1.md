@@ -1,5 +1,6 @@
 # What is kubernetes
 
+
 💡
 
 Docker is a pre-requisite before you proceed to understand kubernetes
