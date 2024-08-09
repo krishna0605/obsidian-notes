@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college notes/cyber security notes xampp.md",
+                "file": "notes/dynamic malware analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college notes/cyber security notes xampp.md",
+                "file": "notes/dynamic malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "college notes/cyber security notes xampp.md",
+                "file": "notes/dynamic malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college notes/cyber security notes xampp.md"
+                "file": "notes/dynamic malware analysis.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "college notes/cyber security notes xampp.md",
     "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
     "NextJS/NextJS (Client side).md",
@@ -186,7 +187,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "college notes/cyber security DVWA.md",
-    "college notes/cyber security notes xampp.md",
     "cohort 3.0/day 1.md",
     "notes/Untitled 1/android application testing.md",
     "NextJS",
