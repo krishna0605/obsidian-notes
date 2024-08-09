@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker 1.md",
+                "file": "NextJS/NextJS (Server side).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docker/docker 1.md",
+            "file": "NextJS/NextJS (Server side).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docker/docker 1.md",
+            "file": "NextJS/NextJS (Server side).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docker/docker 1.md"
+            "file": "NextJS/NextJS (Server side).md"
           }
         }
       }
@@ -133,11 +133,11 @@
   },
   "active": "b3710ccf506a1ad0",
   "lastOpenFiles": [
-    "docker/Intro to docker.md",
     "docker/docker 1.md",
     "college notes/cyber security DVWA.md",
+    "NextJS/NextJS (Client side).md",
+    "docker/Intro to docker.md",
     "Untitled 1.canvas",
-    "GDG/gdg gen ai day.md",
-    "NextJS/NextJS (Client side).md"
+    "GDG/gdg gen ai day.md"
   ]
 }
