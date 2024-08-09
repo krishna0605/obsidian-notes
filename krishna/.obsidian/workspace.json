@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJS/NextJS (Server side).md",
+                "file": "svelte/svelte 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NextJS/NextJS (Server side).md",
+                "file": "svelte/svelte 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NextJS/NextJS (Server side).md",
+                "file": "svelte/svelte 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NextJS/NextJS (Server side).md"
+                "file": "svelte/svelte 1.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "NextJS/NextJS (Server side).md",
+    "svelte/svelte 1.md",
+    "svelte",
     "notes/Phishing Attack.md",
     "notes/dynamic malware analysis.md",
     "docker/docker ultimate.md",
@@ -169,7 +172,6 @@
     "notes/Untitled 1/burpsuite.md",
     "Pasted image 20240809101159.png",
     "xampp to google cloud.md",
-    "NextJS/NextJS (Server side).md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -206,7 +208,6 @@
     "py.md",
     "cohort 3.0",
     "github campus experts",
-    "Untitled",
-    "docker"
+    "Untitled"
   ]
 }
