@@ -52,7 +52,7 @@ index.js
 
 Removes a component from the DOM and triggers any `onDestroy` handlers.
 
-## Component props[permalink](https://svelte.dev/docs/client-side-component-api#component-props)
+## Component props
 
 `   component.prop;   `
 

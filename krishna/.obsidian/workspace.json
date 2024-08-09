@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
+                "file": "svelte/svelte client side srever.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
+                "file": "svelte/svelte client side srever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDG/gdg gen ai day.md",
+                "file": "svelte/svelte client side srever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDG/gdg gen ai day.md"
+                "file": "svelte/svelte client side srever.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "GDG/gdg gen ai day.md",
     "svelte/svelte client side srever.md",
     "NextJS/NextJS (Server side).md",
     "svelte",
@@ -175,7 +176,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "GDG/gdg gen ai day.md",
     "college notes/cyber security DVWA.md",
     "college notes/cyber security notes xampp.md",
     "cohort 3.0/day 1.md",
