@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "svelte/svelte client side srever.md",
+                "file": "svelte/Server-side component API.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "svelte/svelte client side srever.md",
+                "file": "svelte/Server-side component API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "svelte/svelte client side srever.md",
+                "file": "svelte/Server-side component API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "svelte/svelte client side srever.md"
+                "file": "svelte/Server-side component API.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
-    "GDG/gdg gen ai day.md",
     "svelte/svelte client side srever.md",
+    "svelte/Server-side component API.md",
+    "GDG/gdg gen ai day.md",
     "NextJS/NextJS (Server side).md",
     "svelte",
     "notes/Phishing Attack.md",
@@ -205,7 +206,6 @@
     "notes/Untitled 1/Security Is A Myth Cybersecurity in the Modern Age.md",
     "github campus experts/question 1.md",
     "kubernettes",
-    "py.md",
     "cohort 3.0",
     "github campus experts",
     "Untitled"

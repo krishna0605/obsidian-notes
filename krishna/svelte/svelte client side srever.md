@@ -65,3 +65,4 @@ By default, `accessors` is `false`, unless you're compiling as a custom eleme
 index.js
 
 `   console.log(component.count);  component.count += 1;   `
+
