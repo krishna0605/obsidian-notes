@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NextJS/NextJS (Server side).md",
+                "file": "docker/docker 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NextJS/NextJS (Server side).md",
+            "file": "docker/docker 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "NextJS/NextJS (Server side).md",
+            "file": "docker/docker 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "NextJS/NextJS (Server side).md"
+            "file": "docker/docker 1.md"
           }
         }
       }
@@ -133,8 +133,11 @@
   },
   "active": "b3710ccf506a1ad0",
   "lastOpenFiles": [
-    "xampp to google cloud.md",
     "NextJS/NextJS (Server side).md",
+    "Pasted image 20240809101159.png",
+    "svelte/svelte client side srever.md",
+    "svelte",
+    "xampp to google cloud.md",
     "docker/docker 1.md",
     "college notes/cyber security DVWA.md",
     "NextJS/NextJS (Client side).md",
