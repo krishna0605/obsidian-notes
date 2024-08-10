@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4d7312702418e7",
+        "id": "91abdd0442ba848f",
         "type": "tabs",
         "children": [
           {
-            "id": "c458adb9c3e71e91",
+            "id": "8d1a943788352a36",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "IMG_20240810_103950.jpg"
-              }
-            }
-          },
-          {
-            "id": "806d3711eda416a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Phishing Attack.md",
-                "mode": "source",
-                "source": false
+                "file": "GDG cloud community day/IMG_20240810_103950.jpg"
               }
             }
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMG_20240810_103950.jpg",
+                "file": "GDG cloud community day/IMG_20240810_103950.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMG_20240810_103950.jpg",
+                "file": "GDG cloud community day/IMG_20240810_103950.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMG_20240810_103950.jpg"
+                "file": "GDG cloud community day/IMG_20240810_103950.jpg"
               }
             }
           }
@@ -156,20 +144,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c458adb9c3e71e91",
+  "active": "fea882ba268edfea",
   "lastOpenFiles": [
-    "IMG_20240810_105026.jpg",
-    "IMG_20240810_104147.jpg",
-    "IMG_20240810_103950.jpg",
+    "GDG cloud community day/Untitled",
+    "notes/Phishing Attack.md",
+    "GDG cloud community day/IMG20240810153217.jpg",
+    "GDG cloud community day/IMG_20240810_103950.jpg",
+    "Pasted image 20240809101159.png",
+    "GDG cloud community day/IMG_20240810_104147.jpg",
+    "GDG cloud community day/IMG_20240810_105026.jpg",
     "xampp to google cloud.md",
-    "IMG_20240810_112203.jpg",
-    "IMG_20240810_104341.jpg",
-    "IMG_20240810_154113.jpg",
-    "IMG20240810120221.jpg",
-    "IMG_20240810_105218.jpg",
-    "IMG_20240810_153822.jpg",
-    "IMG_20240810_112143.jpg",
-    "IMG20240810152944.jpg",
+    "GDG cloud community day/IMG_20240810_112203.jpg",
+    "GDG cloud community day/IMG_20240810_104341.jpg",
+    "GDG cloud community day/IMG_20240810_154113.jpg",
+    "GDG cloud community day/IMG20240810120221.jpg",
+    "GDG cloud community day/IMG_20240810_105218.jpg",
     "GDG cloud community day/Key note 1.md",
     "~syncthing~IMG_20240810_104341.jpg.tmp",
     "~syncthing~IMG_20240810_112203.jpg.tmp",
@@ -200,7 +189,6 @@
     "docker/Intro to docker.md",
     "svelte/svelte client side srever.md",
     "GDG/gdg gen ai day.md",
-    "notes/Phishing Attack.md",
     "notes/Untitled 1/burpsuite.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
