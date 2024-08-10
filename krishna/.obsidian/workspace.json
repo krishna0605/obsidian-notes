@@ -11,9 +11,11 @@
             "id": "8d1a943788352a36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "GDG cloud community day/IMG_20240810_103950.jpg"
+                "file": "GDG cloud community day/Key note 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDG cloud community day/IMG_20240810_103950.jpg",
+                "file": "GDG cloud community day/Key note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDG cloud community day/IMG_20240810_103950.jpg",
+                "file": "GDG cloud community day/Key note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDG cloud community day/IMG_20240810_103950.jpg"
+                "file": "GDG cloud community day/Key note 1.md"
               }
             }
           }
@@ -144,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea882ba268edfea",
+  "active": "8d1a943788352a36",
   "lastOpenFiles": [
-    "GDG cloud community day/Untitled",
+    "GDG cloud community day/images/IMG_20240810_104709.jpg",
+    "GDG cloud community day/images/IMG_20240810_104147.jpg",
+    "GDG cloud community day/images/IMG_20240810_103950.jpg",
+    "GDG cloud community day/images",
     "notes/Phishing Attack.md",
-    "GDG cloud community day/IMG20240810153217.jpg",
-    "GDG cloud community day/IMG_20240810_103950.jpg",
+    "GDG cloud community day/images/IMG20240810153217.jpg",
     "Pasted image 20240809101159.png",
-    "GDG cloud community day/IMG_20240810_104147.jpg",
-    "GDG cloud community day/IMG_20240810_105026.jpg",
+    "GDG cloud community day/images/IMG_20240810_105026.jpg",
     "xampp to google cloud.md",
-    "GDG cloud community day/IMG_20240810_112203.jpg",
-    "GDG cloud community day/IMG_20240810_104341.jpg",
-    "GDG cloud community day/IMG_20240810_154113.jpg",
-    "GDG cloud community day/IMG20240810120221.jpg",
-    "GDG cloud community day/IMG_20240810_105218.jpg",
+    "GDG cloud community day/images/IMG_20240810_112203.jpg",
+    "GDG cloud community day/images/IMG_20240810_104341.jpg",
+    "GDG cloud community day/images/IMG_20240810_154113.jpg",
+    "GDG cloud community day/images/IMG20240810120221.jpg",
+    "GDG cloud community day/images/IMG_20240810_105218.jpg",
     "GDG cloud community day/Key note 1.md",
     "~syncthing~IMG_20240810_104341.jpg.tmp",
     "~syncthing~IMG_20240810_112203.jpg.tmp",
@@ -169,7 +172,6 @@
     "GDG cloud community day/~syncthing~Key note 1.md.tmp",
     "~syncthing~IMG_20240810_111423.jpg.tmp",
     "~syncthing~IMG_20240810_105026.jpg.tmp",
-    "~syncthing~IMG_20240810_104709.jpg.tmp",
     "github campus experts/poiint.md",
     "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
