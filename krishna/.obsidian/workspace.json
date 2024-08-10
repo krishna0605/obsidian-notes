@@ -11,8 +11,12 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "xampp to google cloud.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "xampp to google cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "xampp to google cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "xampp to google cloud.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "github campus experts/poiint.md",
     "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
     "svelte/Custom elements API.md",
@@ -196,7 +205,6 @@
     "docker/Untitled",
     "notes/Untitled 1",
     "college notes",
-    "Untitled/DV.md",
     "kubernettes",
     "cohort 3.0",
     "github campus experts",
