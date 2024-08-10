@@ -11,11 +11,9 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "xampp to google cloud.md",
-                "mode": "source",
-                "source": false
+                "file": "IMG_20240810_103950.jpg"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xampp to google cloud.md",
+                "file": "IMG_20240810_103950.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xampp to google cloud.md",
+                "file": "IMG_20240810_103950.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xampp to google cloud.md"
+                "file": "IMG_20240810_103950.jpg"
               }
             }
           }
@@ -160,6 +158,29 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "IMG_20240810_105026.jpg",
+    "IMG_20240810_104147.jpg",
+    "IMG_20240810_103950.jpg",
+    "xampp to google cloud.md",
+    "IMG_20240810_112203.jpg",
+    "IMG_20240810_104341.jpg",
+    "IMG_20240810_154113.jpg",
+    "IMG20240810120221.jpg",
+    "IMG_20240810_105218.jpg",
+    "IMG_20240810_153822.jpg",
+    "IMG_20240810_112143.jpg",
+    "IMG20240810152944.jpg",
+    "GDG cloud community day/Key note 1.md",
+    "~syncthing~IMG_20240810_104341.jpg.tmp",
+    "~syncthing~IMG_20240810_112203.jpg.tmp",
+    "~syncthing~IMG_20240810_154113.jpg.tmp",
+    "~syncthing~IMG_20240810_105218.jpg.tmp",
+    "~syncthing~IMG20240810120221.jpg.tmp",
+    "~syncthing~IMG_20240810_153822.jpg.tmp",
+    "GDG cloud community day/~syncthing~Key note 1.md.tmp",
+    "~syncthing~IMG_20240810_111423.jpg.tmp",
+    "~syncthing~IMG_20240810_105026.jpg.tmp",
+    "~syncthing~IMG_20240810_104709.jpg.tmp",
     "github campus experts/poiint.md",
     "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
@@ -179,35 +200,12 @@
     "docker/Intro to docker.md",
     "svelte/svelte client side srever.md",
     "GDG/gdg gen ai day.md",
-    "svelte",
     "notes/Phishing Attack.md",
     "notes/Untitled 1/burpsuite.md",
-    "Pasted image 20240809101159.png",
-    "xampp to google cloud.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "college notes/cyber security DVWA.md",
-    "cohort 3.0/day 1.md",
-    "notes/Untitled 1/android application testing.md",
-    "NextJS",
-    "docker/Untitled/Pasted image 20240630112543.png",
-    "Pasted image 20240808211620.png",
-    "Pasted image 20240808211733.png",
-    "Pasted image 20240808211432.png",
-    "Pasted image 20240807154504.png",
-    "Pasted image 20240807154631.png",
-    "Pasted image 20240807154529.png",
-    "Pasted image 20240807154434.png",
-    "Pasted image 20240807154212.png",
-    "GDG",
-    "gen a.md",
-    "docker/Untitled",
-    "notes/Untitled 1",
-    "college notes",
-    "kubernettes",
-    "cohort 3.0",
-    "github campus experts",
-    "Untitled"
+    "cohort 3.0/day 1.md"
   ]
 }
