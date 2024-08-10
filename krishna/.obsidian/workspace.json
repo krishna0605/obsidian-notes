@@ -11,12 +11,8 @@
             "id": "c458adb9c3e71e91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/dynamic malware analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/dynamic malware analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/dynamic malware analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/dynamic malware analysis.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,6 +152,7 @@
   },
   "active": "c458adb9c3e71e91",
   "lastOpenFiles": [
+    "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
     "svelte/Custom elements API.md",
     "svelte/Server-side component API.md",
@@ -179,7 +172,6 @@
     "GDG/gdg gen ai day.md",
     "svelte",
     "notes/Phishing Attack.md",
-    "notes/dynamic malware analysis.md",
     "notes/Untitled 1/burpsuite.md",
     "Pasted image 20240809101159.png",
     "xampp to google cloud.md",
