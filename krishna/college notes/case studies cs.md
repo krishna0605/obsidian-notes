@@ -64,46 +64,30 @@ Computer Forensics Involvement:
 - Digital signature verification to detect forged or unauthorized useData visualization of complex financial transactions to aid investigators in understanding the fraud's structure
 
 - Collaboration with international law enforcement agencies for cross-border digital evidence sharing
-    
-
-  
-  
-  
-  
-  
-  
-  
-  
 
 Investigation & Punishment: 
 
 - A special investigation team led by the CBI, with assistance from the Enforcement Directorate (ED) and Interpol, conducted a thorough investigation.
-    
-
-  
 
 - Computer forensic experts played a crucial role in analyzing digital evidence from seized devices, SWIFT system logs, and bank databases.
-    
-
-  
-
+ 
 - The investigation team traced fraudulent transactions, recovered deleted emails, and examined metadata to establish the timeline and extent of the fraud.Nirav Modi was extradited from the UK to India in 2021 to face trial.
-    
+
 
 ITA Acts and Applicable laws for this crime: 
 
 - Section 66 of IT Act: Computer-related offences
-    
+
 - Section 66C of IT Act: Punishment for identity theft
-    
+
 - Section 66D of IT Act: Punishment for cheating by personation by using computer resource
-    
+ 
 - Sections 420 (Cheating), 467 (Forgery of valuable security), 471 (Using as genuine a forged document), and 120B (Criminal conspiracy) of the Indian Penal Code
-    
+
 - Prevention of Money Laundering Act, 2002
-    
+
 - Fugitive Economic Offenders Act, 2018
-    
+
 
   
 **
