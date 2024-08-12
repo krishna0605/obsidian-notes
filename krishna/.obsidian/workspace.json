@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDG cloud community day/Key note 1.md",
+                "file": "college notes/case studies cs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDG cloud community day/Key note 1.md",
+                "file": "college notes/case studies cs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDG cloud community day/Key note 1.md",
+                "file": "college notes/case studies cs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDG cloud community day/Key note 1.md"
+                "file": "college notes/case studies cs.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "8d1a943788352a36",
   "lastOpenFiles": [
+    "GDG cloud community day/Key note 1.md",
+    "college notes/case studies cs.md",
     "GDG cloud community day/images/IMG_20240810_104709.jpg",
     "GDG cloud community day/images/IMG_20240810_104147.jpg",
     "GDG cloud community day/images/IMG_20240810_103950.jpg",
@@ -161,8 +163,6 @@
     "GDG cloud community day/images/IMG_20240810_104341.jpg",
     "GDG cloud community day/images/IMG_20240810_154113.jpg",
     "GDG cloud community day/images/IMG20240810120221.jpg",
-    "GDG cloud community day/images/IMG_20240810_105218.jpg",
-    "GDG cloud community day/Key note 1.md",
     "~syncthing~IMG_20240810_104341.jpg.tmp",
     "~syncthing~IMG_20240810_112203.jpg.tmp",
     "~syncthing~IMG_20240810_154113.jpg.tmp",
