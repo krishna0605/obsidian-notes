@@ -10,3 +10,9 @@
 
 mobile forensic case study
 26/11 mumbai attack
+
+
+
+computer forensic case study 
+
+### The Nirav Modi-PNB Bank Fraud case:**
