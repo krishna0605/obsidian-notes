@@ -14,5 +14,4 @@ mobile forensic case study
 
 
 computer forensic case study 
-
-### The Nirav Modi-PNB Bank Fraud case:**
+The Nirav Modi-PNB Bank Fraud case:
