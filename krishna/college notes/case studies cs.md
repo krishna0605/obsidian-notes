@@ -11,6 +11,62 @@
 mobile forensic case study
 26/11 mumbai attack
 
+Scenario:
+
+- The Mumbai Police and later the Central Bureau of Investigation (CBI) investigated the death of Bollywood actor Sushant Singh Rajput (SSR) and the subsequent allegations against actress Rhea Chakraborty.
+- SSR was found dead in his Mumbai apartment on June 14, 2020, initially ruled as suicide.
+- Rhea Chakraborty, SSR's girlfriend, was accused by his family of abetment to suicide, misappropriation of funds, and other charges.
+- The case garnered immense media attention and public interest, leading to multiple agencies getting involved in the investigation.
+- The Narcotics Control Bureau (NCB) also joined the investigation, probing drug-related angles in the case.
+- Social media conversations, financial transactions, and call records became crucial evidence in the case.
+
+
+Mobile Forensics Involvement:
+
+- Mobile phones of SSR, Rhea, and other involved parties were seized and subjected to forensic analysis.
+- Deleted WhatsApp chats were recovered, providing crucial leads in the drug angle of the case.
+- Call Detail Records (CDRs) were analyzed to establish communication patterns between various individuals.
+- Mobile data was used to create a timeline of events leading up to SSR's death.
+- Geolocation data from mobile devices helped in tracking movements of key individuals.
+- Social media accounts linked to the mobile devices were examined for relevant conversations and posts.
+- Mobile banking transactions were scrutinized to investigate financial aspects of the case.
+
+Investigation & Punishment:
+
+- The CBI took over the case on August 19, 2020, following a Supreme Court order.
+- The Enforcement Directorate (ED) investigated the money laundering angle.
+- Rhea Chakraborty was arrested by the NCB on September 8, 2020, on drug-related charges and was later granted bail by the Bombay High Court on October 7, 2020.
+- Multiple individuals, including Rhea's brother Showik Chakraborty, were questioned and arrested during the course of the investigation.
+
+
+
+ITA Acts and Applicable laws for this crime:
+
+- Section 66C of IT Act: Punishment for identity theft
+- Section 67 of IT Act: Punishment for publishing or transmitting obscene material in electronic form
+- Sections 20, 27, 29 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act for drug-related charges
+- Sections 420 (cheating), 406 (criminal breach of trust), 306 (abetment to suicide), 506 (criminal intimidation) of the IPC
+- Provisions of the Prevention of Money Laundering Act (PMLA) for financial investigations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 computer forensic case study 
