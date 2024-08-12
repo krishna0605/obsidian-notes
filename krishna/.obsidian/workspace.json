@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35b1db5131f1db0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aksher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college notes/case studies cs.md",
+                "file": "aksher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "college notes/case studies cs.md",
+                "file": "aksher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college notes/case studies cs.md"
+                "file": "aksher.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1a943788352a36",
+  "active": "35b1db5131f1db0e",
   "lastOpenFiles": [
-    "GDG cloud community day/Key note 1.md",
     "college notes/case studies cs.md",
+    "aksher.md",
+    "GDG cloud community day/Key note 1.md",
     "GDG cloud community day/images/IMG_20240810_104709.jpg",
     "GDG cloud community day/images/IMG_20240810_104147.jpg",
     "GDG cloud community day/images/IMG_20240810_103950.jpg",
@@ -195,7 +209,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "college notes/cyber security DVWA.md",
-    "cohort 3.0/day 1.md"
+    "college notes/cyber security DVWA.md"
   ]
 }
