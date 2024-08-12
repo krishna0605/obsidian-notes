@@ -16,7 +16,7 @@ I am part of a humble community called EIPG - Engineering innovation projects gr
 1) my community is a space where everyone can share their ideas openly and collaborate to develop them further.
 2)  One instance is we use techstack to connect likeminded individuals working on similar ideas, so they can take their project up a notch.
 3)  I as an initiator build network and get more industry experts involved in my community so that we all can learn together and create. In the past year we have organized a few expert hands on sessions 
-4) As we have achieved a few collaborative session with few industre 
+4) As we have achieved a few collaborative session with few industrial expert such session were focused on the experiance and pratical tha 
 
 
 
