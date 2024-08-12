@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college notes/exam questions.md",
+                "file": "college notes/exam questions ethical hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college notes/exam questions.md",
+                "file": "college notes/exam questions ethical hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "college notes/exam questions.md",
+                "file": "college notes/exam questions ethical hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college notes/exam questions.md"
+                "file": "college notes/exam questions ethical hacking.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "35b1db5131f1db0e",
   "lastOpenFiles": [
     "college notes/case studies cs.md",
-    "college notes/exam questions.md",
+    "college notes/exam questions ethical hacking.md",
     "aksher.md",
     "GDG cloud community day/Key note 1.md",
     "GDG cloud community day/images/IMG_20240810_104709.jpg",
