@@ -12,6 +12,8 @@ d/b hacker and cracker
 Q4
 difference between white , black .gray hat hacker 
 
-Q5 
-\
+Q5 define active passive attack
+
+
+
 
