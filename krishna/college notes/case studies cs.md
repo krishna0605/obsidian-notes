@@ -46,10 +46,6 @@ Scenario: 
 - The fraud involved multiple shell companies and spanned several years, resulting in a loss of approximately ₹14,000 crore to PNB.
 
 - The scam was uncovered in January 2018 when PNB officials discovered unauthorized transactions in their SWIFT messaging system.
-    
-
-  
-  
 
 - Modi fled India before the fraud was exposed and was later arrested in London in March 2019.
     
