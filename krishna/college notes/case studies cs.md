@@ -48,47 +48,20 @@ Scenario: 
 - The scam was uncovered in January 2018 when PNB officials discovered unauthorized transactions in their SWIFT messaging system.
 
 - Modi fled India before the fraud was exposed and was later arrested in London in March 2019.
-    
-
-  
-  
 
 - The case involved complex international financial transactions and multiple jurisdictions, making it one of India's largest banking frauds.
-    
-
-  
-  
-  
-  
-  
-  
-
+- 
 Computer Forensics Involvement:
 
 - Digital evidence collection from computers, servers, and mobile devices seized from Modi's offices and residencesAnalysis of SWIFT system logs to trace unauthorized LoUs and fraudulent transactions
-    
-
-  
 
 - Examination of PNB's core banking system databases to identify manipulated entriesRecovery and analysis of deleted emails and documents using specialized forensic software
-    
-
-  
 
 - Metadata analysis to establish document authenticity and creation timelinesNetwork forensics to identify any unauthorized access or data transfers
-    
-
-  
 
 - Mobile device forensics to extract relevant data from smartphones of key suspectsFinancial software analysis to trace fund flows and identify discrepancies
-    
-
-  
 
 - Digital signature verification to detect forged or unauthorized useData visualization of complex financial transactions to aid investigators in understanding the fraud's structure
-    
-
-  
 
 - Collaboration with international law enforcement agencies for cross-border digital evidence sharing
     
