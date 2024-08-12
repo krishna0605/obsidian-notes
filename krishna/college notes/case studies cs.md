@@ -9,7 +9,7 @@
 
 
 mobile forensic case study
-26/11 mumbai attack
+The SSR- Rhea Chakraborty case
 
 Scenario:
 
