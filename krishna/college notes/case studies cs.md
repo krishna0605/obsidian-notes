@@ -87,11 +87,3 @@ ITA Acts and Applicable laws for this crime: 
 - Prevention of Money Laundering Act, 2002
 
 - Fugitive Economic Offenders Act, 2018
-
-
-  
-**
-
-
-
-what it digital forensic 
