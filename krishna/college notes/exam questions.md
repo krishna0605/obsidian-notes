@@ -7,5 +7,11 @@ write the defination of
 hacker 
 cracker 
 
-d/b 
+d/b hacker and cracker 
+
+Q4
+difference between white , black .gray hat hacker 
+
+Q5 
+\
 
