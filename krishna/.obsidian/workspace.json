@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcb53a49af0556cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "college notes/daa QB exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "college notes/daa QB exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "college notes/daa QB exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github campus experts/question 1.md"
+                "file": "college notes/daa QB exam.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35b1db5131f1db0e",
+  "active": "fcb53a49af0556cc",
   "lastOpenFiles": [
+    "github campus experts/question 1.md",
+    "college notes/daa QB exam.md",
     "github campus experts/poiint.md",
     "college notes/exam questions ethical hacking.md",
-    "github campus experts/question 1.md",
     "GDG cloud community day/Key note 1.md",
     "case study.md",
     "college notes/case studies cs.md",
@@ -206,7 +219,6 @@
     "docker/docker 2.md",
     "docker/docker ultimate.md",
     "docker/Intro to docker.md",
-    "svelte/svelte client side srever.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
