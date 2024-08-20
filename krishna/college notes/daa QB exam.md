@@ -1,4 +1,4 @@
-Here are the answers to your questions based on the content from the provided document:
+
 
 ### 1) a) Define and explain the terms “Time complexity” and “Space complexity” of algorithms.
 
@@ -8,8 +8,7 @@ Here are the answers to your questions based on the content from the provided do
 - **Worst Case**: The maximum time taken for any input of size n.
 
 **Space Complexity**: Space complexity measures the amount of memory space required by an algorithm as a function of the size of the input data. It includes both the fixed part (independent of input size) and the variable part (dependent on input size). The space requirement can be expressed as:
-$ S(P) = c + S_p(\text{Instance characteristics}) $
-where $ c $ is a constant representing the fixed part, and $ S_p $ is the space needed based on the input characteristics [T3].
+![[Pasted image 20240820154843.png]]
 
 ### 1) b) Explain about Amortized Analysis.
 
