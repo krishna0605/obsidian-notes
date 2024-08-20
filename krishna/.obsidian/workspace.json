@@ -35,9 +35,11 @@
             "id": "fcb53a49af0556cc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "college notes/Pasted image 20240820154843.png"
+                "file": "college notes/daa QB exam.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college notes/Pasted image 20240820154843.png",
+                "file": "college notes/daa QB exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "college notes/Pasted image 20240820154843.png",
+                "file": "college notes/daa QB exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college notes/Pasted image 20240820154843.png"
+                "file": "college notes/daa QB exam.md"
               }
             }
           }
@@ -169,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea882ba268edfea",
+  "active": "fcb53a49af0556cc",
   "lastOpenFiles": [
+    "college notes/exam questions ethical hacking.md",
+    "college notes/mesalinios/Pasted image 20240820154843.png",
+    "college notes/mesalinios",
     "Pasted image 20240809101159.png",
     "college notes/daa QB exam.md",
-    "college notes/Pasted image 20240820154843.png",
     "github campus experts/question 1.md",
     "github campus experts/poiint.md",
-    "college notes/exam questions ethical hacking.md",
     "GDG cloud community day/Key note 1.md",
     "case study.md",
     "college notes/case studies cs.md",
@@ -200,7 +203,6 @@
     "~syncthing~IMG_20240810_153822.jpg.tmp",
     "GDG cloud community day/~syncthing~Key note 1.md.tmp",
     "~syncthing~IMG_20240810_111423.jpg.tmp",
-    "~syncthing~IMG_20240810_105026.jpg.tmp",
     "notes/dynamic malware analysis.md",
     "college notes/cyber security notes xampp.md",
     "svelte/Custom elements API.md",

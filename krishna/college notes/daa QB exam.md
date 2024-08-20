@@ -14,7 +14,7 @@
 
 **Amortized Analysis**: Amortized analysis is a technique used to analyze the time complexity of an algorithm over a sequence of operations, rather than on a single operation. It provides a more accurate average time per operation when the worst-case time for a single operation is high but occurs infrequently. 
 
-For example, in a dynamic array, when the array is full and a new element is added, the array must be resized, which is a costly operation. However, this resizing does not happen with every insertion. Amortized analysis allows us to average out the cost of resizing over multiple insertions, leading to a more favorable average time complexity for the insert operation [T2].
+For example, in a dynamic array, when the array is full and a new element is added, the array must be resized, which is a costly operation. However, this resizing does not happen with every insertion. Amortized analysis allows us to average out the cost of resizing over multiple insertions, leading to a more favorable average time complexity for the insert operation .
 
 ### 2) Explain in brief about Asymptotic Notations with examples.
 
@@ -24,7 +24,7 @@ For example, in a dynamic array, when the array is full and a new element is add
   
 - **Big-Omega Notation (Ω)**: Represents a lower bound on the time complexity. For instance, if $ f(n) = Ω(n) $, it indicates that the algorithm will take at least linear time for large inputs.
 
-- **Big-Theta Notation (Θ)**: Represents a tight bound on the time complexity, meaning the function grows at the same rate both in the upper and lower bounds. For example, $ f(n) = Θ(n \log n) $ indicates that the algorithm's running time grows proportionally to $ n \log n $ [T1].
+- **Big-Theta Notation (Θ)**: Represents a tight bound on the time complexity, meaning the function grows at the same rate both in the upper and lower bounds. For example, $ f(n) = Θ(n \log n) $ indicates that the algorithm's running time grows proportionally to $ n \log n $ .
 
 ### 3) Explain about Amortized analysis.
 
