@@ -3,7 +3,7 @@
 ### 1) a) Define and explain the terms “Time complexity” and “Space complexity” of algorithms.
 
 **Time Complexity**: Time complexity refers to the computational time that an algorithm takes to complete as a function of the size of the input data. It is often expressed using Big-O notation, which classifies algorithms according to their worst-case or average-case running time. The time complexity can be categorized into three cases:
-- **Best Case**: The minimum time required for the algorithm to complete.
+- **Best Case**: The minimum time required for the algorithm to complete. invites
 - **Average Case**: The expected time taken for a random input.
 - **Worst Case**: The maximum time taken for any input of size n.
 
