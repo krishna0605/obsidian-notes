@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "8b3fd1ba21a1692c",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb53a49af0556cc",
+  "active": "fea882ba268edfea",
   "lastOpenFiles": [
     "GDG cloud community day/Key note 1.md",
     "GDG/gdg gen ai day.md",
