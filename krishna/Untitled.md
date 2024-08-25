@@ -9,3 +9,20 @@ We leverage technology to connect individuals with similar interests and complem
 As an initiator, I actively expand our network and enrich our collective knowledge base by engaging industry experts. Over the past year, we've organized hands-on sessions led by these professionals, bridging the gap between theory and practice.
 
 These collaborative sessions have been particularly impactful, focusing on real-world experiences and practical knowledge. Experts candidly discuss mistakes and challenges from their learning stages, providing invaluable guidance on navigating professional growth and project development. This approach accelerates our members' development, equipping them with insights typically gained only through years of experience.
+
+
+
+
+
+
+
+
+list  of  events 
+
+
+
+1 https://www.linkedin.com/posts/vishvjit-thakar-39798951_we-are-happy-to-announce-that-school-of-engineering-activity-7232014090347368448-BEBh?utm_source=share&utm_medium=member_desktop
+
+2
+
+
