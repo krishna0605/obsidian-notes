@@ -23,6 +23,7 @@ list  of  events
 
 1 https://www.linkedin.com/posts/vishvjit-thakar-39798951_we-are-happy-to-announce-that-school-of-engineering-activity-7232014090347368448-BEBh?utm_source=share&utm_medium=member_desktop
 
-2
+2 https://www.linkedin.com/posts/nilesh-vaghela_workshop-of-cloud-computing-and-open-source-activity-7167926864387293184-LjuC?utm_source=share&utm_medium=member_desktop
+3 
 
 
