@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker 2.md",
+                "file": "GDG/gdg gen ai day.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker 2.md",
+                "file": "GDG/gdg gen ai day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker 2.md",
+                "file": "GDG/gdg gen ai day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker 2.md"
+                "file": "GDG/gdg gen ai day.md"
               }
             }
           }
@@ -173,6 +173,10 @@
   },
   "active": "fcb53a49af0556cc",
   "lastOpenFiles": [
+    "docker/Intro to docker.md",
+    "docker/graph.md",
+    "docker/docker ultimate.md",
+    "docker/docker 2.md",
     "docker/docker 1.md",
     "college notes/exam questions ethical hacking.md",
     "college notes/daa QB exam.md",
@@ -215,10 +219,6 @@
     "kubernettes/kubernetes graph.md",
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 2.md",
-    "kubernettes/kubernetes 1.md",
-    "docker/graph.md",
-    "docker/docker 2.md",
-    "docker/docker ultimate.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
