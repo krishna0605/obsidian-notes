@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernettes/kubernetes 3.md",
+                "file": "NextJS/NextJS (Client side).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernettes/kubernetes 3.md",
+                "file": "NextJS/NextJS (Client side).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernettes/kubernetes 3.md",
+                "file": "NextJS/NextJS (Client side).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernettes/kubernetes 3.md"
+                "file": "NextJS/NextJS (Client side).md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "fcb53a49af0556cc",
   "lastOpenFiles": [
+    "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 2.md",
     "kubernettes/kubernetes 1.md",
     "GDG cloud community day/Key note 1.md",
@@ -218,7 +219,6 @@
     "svelte/Server-side component API.md",
     "NextJS/NextJS (Client side).md",
     "NextJS/NextJS (Server side).md",
-    "NextJS/graph nextjs.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
