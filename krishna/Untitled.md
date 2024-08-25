@@ -1,3 +1,7 @@
+
+println("Hey,I am Krishna! A logical enthusiast about finding solutions");
+I am part of a humble community called EIPG - Engineering innovation projects group. I initiated this community a year ago. 
+
 At the heart of our community lies a vibrant space where ideas flow freely and collaboration thrives We've made an environment that encourages every member to share their thoughts openly bringing a culture of innovation and mutual growth. This open exchange of ideas is not just welcomed but actively nurtured allowing concepts to evolve and mature through collective input and refinement.
 
 one of the key features that sets our community apart is our innovative use of technology to facilitate connections  we use our techstack to bring together individuals with similar interests and  skills this targeted approach to networking enables members working on related projects to find each other easily creating opportunities for collaboration that can help their work to go to new heights by connecting like minded individuals  we are not just facilitating project development we are catalyzing innovations that might not have been possible in isolation
