@@ -35,16 +35,31 @@
             "id": "fcb53a49af0556cc",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 12.5,
+                  "y": -62,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "ed461290f83c9d76",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github campus experts/question 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -171,8 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcb53a49af0556cc",
+  "active": "ed461290f83c9d76",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "github campus experts/question 1.md",
     "NextJS/NextJS (Client side).md",
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 2.md",
@@ -192,7 +210,6 @@
     "college notes/mesalinios/Pasted image 20240820154843.png",
     "college notes/mesalinios",
     "Pasted image 20240809101159.png",
-    "github campus experts/question 1.md",
     "github campus experts/poiint.md",
     "case study.md",
     "aksher.md",
@@ -217,10 +234,7 @@
     "~syncthing~IMG_20240810_111423.jpg.tmp",
     "notes/dynamic malware analysis.md",
     "svelte/Custom elements API.md",
-    "svelte/Server-side component API.md",
-    "NextJS/NextJS (Server side).md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Untitled.canvas"
   ]
 }
