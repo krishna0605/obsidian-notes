@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "8b3fd1ba21a1692c",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernettes/kubernetes 1.md",
+                "file": "kubernettes/kubernetes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernettes/kubernetes 1.md"
+                "file": "kubernettes/kubernetes 2.md"
               }
             }
           }
@@ -172,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea882ba268edfea",
+  "active": "fcb53a49af0556cc",
   "lastOpenFiles": [
+    "kubernettes/kubernetes 1.md",
     "GDG cloud community day/Key note 1.md",
     "GDG/gdg gen ai day.md",
     "docker/Intro to docker.md",
@@ -219,7 +219,6 @@
     "NextJS/NextJS (Server side).md",
     "NextJS/graph nextjs.md",
     "kubernettes/kubernetes graph.md",
-    "kubernettes/kubernetes 3.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
