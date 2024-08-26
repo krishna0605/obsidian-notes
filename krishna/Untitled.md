@@ -45,4 +45,4 @@ list  of  events
 
 list of event
 1 Engineer's day  
-2 work shop on IOT devices 
+2 work shop on IOT devices (Students enjoyed the case studies discussed which arose their interest in the field and eventually they learned how to make their own IOT projects in which they were successfully able to control the light using Google Assistant.) speaker
