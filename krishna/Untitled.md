@@ -59,4 +59,4 @@ Explore the latest happenings in the world of EV Chargers, Smart Transportation 
   
 Organized by the Computer Science and Engineering Department, SoE, this workshop provides an opportunity to expand your knowledge and enrich your career. 📚  
   
-Don't miss out on this incredible chance to learn from the best in the industry. See you there!) expert MR priyesh pan
+Don't miss out on this incredible chance to learn from the best in the industry. See you there!) expert MR priyesh pandya , mr faiyaz pisuwala , mr bhavik vora ,mr anand shah
