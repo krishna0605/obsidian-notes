@@ -102,4 +102,4 @@ Sumit Chawla, CEO of Ultron Technologies, led an intensive fullstack development
 Can you tell us about a time when you took the lead in your community to address a challenge? Please share the outcome, and how you would leverage your experience and the resources provided by the GitHub Campus Experts program to handle current or future obstacles
 
 
-there was this one time 
+there was this one time when we went to a "x" 
