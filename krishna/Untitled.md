@@ -107,4 +107,3 @@ there was this one time when we went to a "x" university for the inter-instituti
 "x" university denaid the program but we ended up contacting Mr. Nilesh Vaghela who took an expert session at our university and he help us trying to convince the university since he was a part of the aws community hero he was able to influnance the university and then they ended up doing a short program of 2 days 
 
 
-as of my experiance i can try t 
