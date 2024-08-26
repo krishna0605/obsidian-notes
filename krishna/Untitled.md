@@ -44,7 +44,7 @@ list  of  events
 
 
 list of event
-1  Engineer's day first event organized by EIPG - Engineering innovation projects groups 
+1  Engineer's day first event organized by EIPG - Engineering innovation projects groups (initiated this community a year ago on the Engineers day on 15 September under the guidance of dean & HOD of School of engineering Dr Vishvjit Thakar)
 
 2 work shop on IOT devices (Students enjoyed the case studies discussed which arose their interest in the field and eventually they learned how to make their own IOT projects in which they were successfully able to control the light using Google Assistant.) speaker Mr sachin soni (founder at techiesms) & mr kedar upadhyay (co founder and head of operations at techiesms)
 
