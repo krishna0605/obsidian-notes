@@ -28,6 +28,6 @@ list  of  events
 4 https://www.linkedin.com/posts/parker-%26-parker-co-llp_parkerip-indrashiluniversity-india-activity-7189144444531556352-DMhb?utm_source=share&utm_medium=member_desktop
 5 https://www.linkedin.com/posts/bhavik-vora-005a6b7_enrichinglives-einfochips-workshop-activity-7188885233755119618-ynjb?utm_source=share&utm_medium=member_desktop
 6 https://www.linkedin.com/posts/electromech-cloudtech_emcpl-aws-opensource-activity-7156880615731011584-WHR0?utm_source=share&utm_medium=member_desktop
-7
-
+7 https://www.linkedin.com/posts/dr-sachin-sharma-9089aab_deeplearning-machinelearning-ai-activity-7151159045368754176-KhFR?utm_source=share&utm_medium=member_desktop
+8 
 
