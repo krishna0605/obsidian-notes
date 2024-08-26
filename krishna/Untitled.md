@@ -55,8 +55,8 @@ list of event
   
 In collaboration with Indrashil University, eInfochips presents an insightful workshop.  
   
-Explore the latest happenings in the world of EV Chargers, Smart Transportation Systems, Intelligent Automation, and Advance Software Testing with experts from [hashtag#eInfochips](https://www.linkedin.com/feed/hashtag/?keywords=einfochips&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7188876841665867776). 🚗💡  
+Explore the latest happenings in the world of EV Chargers, Smart Transportation Systems, Intelligent Automation, and Advance Software Testing with experts from eInfochip. 🚗💡  
   
 Organized by the Computer Science and Engineering Department, SoE, this workshop provides an opportunity to expand your knowledge and enrich your career. 📚  
   
-Don't miss out on this incredible chance to learn from the best in the industry. See you there!)
+Don't miss out on this incredible chance to learn from the best in the industry. See you there!) expert MR priyesh pan
