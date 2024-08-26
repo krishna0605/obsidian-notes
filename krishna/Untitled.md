@@ -29,5 +29,6 @@ list  of  events
 5 https://www.linkedin.com/posts/bhavik-vora-005a6b7_enrichinglives-einfochips-workshop-activity-7188885233755119618-ynjb?utm_source=share&utm_medium=member_desktop
 6 https://www.linkedin.com/posts/electromech-cloudtech_emcpl-aws-opensource-activity-7156880615731011584-WHR0?utm_source=share&utm_medium=member_desktop
 7 https://www.linkedin.com/posts/dr-sachin-sharma-9089aab_deeplearning-machinelearning-ai-activity-7151159045368754176-KhFR?utm_source=share&utm_medium=member_desktop
-8 
+8 https://www.linkedin.com/posts/techiesms_iottour-esp8266-iot-activity-7101973079186141185-W-Hx?utm_source=share&utm_medium=member_desktop
+
 
