@@ -44,7 +44,7 @@ list  of  events
 
 
 list of event
-1 Engineer's day  
+1  Engineer's day  
 2 work shop on IOT devices (Students enjoyed the case studies discussed which arose their interest in the field and eventually they learned how to make their own IOT projects in which they were successfully able to control the light using Google Assistant.) speaker Mr sachin soni (founder at techiesms) & mr kedar upadhyay (co founder and head of operations at techiesms)
 
 3 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 hands on  𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 at Swarrnim Startup & Innovation University (this workshop was under the knowledge exchange program where our faculty DR sachin sharma went in Swarrnim Startup & Innovation University to conduct a hands on workshop on  𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  )
@@ -62,4 +62,4 @@ Organized by the Computer Science and Engineering Department, SoE, this workshop
 Don't miss out on this incredible chance to learn from the best in the industry. See you there!) expert MR priyesh pandya , mr faiyaz pisuwala , mr bhavik vora ,mr anand shah
 
 
-6 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗦𝗸𝗶𝗹𝗹𝘀: 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 + 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗮𝘁 𝗜𝗻𝗱𝗿𝗮𝘀𝗵𝗶𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (Get ready for an action-packed 𝗼𝗻𝗲-𝗱𝗮𝘆 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 where you'll dive deep into 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 to build robust fullstack applications! Learn from the best and enhance your skills with hands-on experience.) speaker 
+6 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗦𝗸𝗶𝗹𝗹𝘀: 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 + 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗮𝘁 𝗜𝗻𝗱𝗿𝗮𝘀𝗵𝗶𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (Get ready for an action-packed 𝗼𝗻𝗲-𝗱𝗮𝘆 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 where you'll dive deep into 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 to build robust fullstack applications! Learn from the best and enhance your skills with hands-on experience.) speaker   Sumit Chawla, CEO of Ultron Technologies.
