@@ -40,3 +40,9 @@ list  of  events
 9 https://www.linkedin.com/posts/indrashil-university-official_indrashiluniversity-cadilapharmaceuticals-activity-7110584430863237120-Z1nk?utm_source=share&utm_medium=member_desktop
 10 
 
+
+
+
+list of event
+1 Engineer's day  
+2 work shop on IOT devices 
