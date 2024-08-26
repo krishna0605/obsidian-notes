@@ -30,5 +30,6 @@ list  of  events
 6 https://www.linkedin.com/posts/electromech-cloudtech_emcpl-aws-opensource-activity-7156880615731011584-WHR0?utm_source=share&utm_medium=member_desktop
 7 https://www.linkedin.com/posts/dr-sachin-sharma-9089aab_deeplearning-machinelearning-ai-activity-7151159045368754176-KhFR?utm_source=share&utm_medium=member_desktop
 8 https://www.linkedin.com/posts/techiesms_iottour-esp8266-iot-activity-7101973079186141185-W-Hx?utm_source=share&utm_medium=member_desktop
-
+9 https://www.linkedin.com/posts/indrashil-university-official_indrashiluniversity-cadilapharmaceuticals-activity-7110584430863237120-Z1nk?utm_source=share&utm_medium=member_desktop
+10 
 
