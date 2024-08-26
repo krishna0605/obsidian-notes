@@ -25,6 +25,7 @@ list  of  events
 
 2 https://www.linkedin.com/posts/nilesh-vaghela_workshop-of-cloud-computing-and-open-source-activity-7167926864387293184-LjuC?utm_source=share&utm_medium=member_desktop
 3 https://www.linkedin.com/posts/thesumitsir_reactjs-firebase-webdeveloper-activity-7231518717870829568-iXIG?utm_source=share&utm_medium=member_desktop
-4 
+4 https://www.linkedin.com/posts/parker-%26-parker-co-llp_parkerip-indrashiluniversity-india-activity-7189144444531556352-DMhb?utm_source=share&utm_medium=member_desktop
+5 https://www.linkedin.com/posts/bhavik-vora-005a6b7_enrichinglives-einfochips-workshop-activity-7188885233755119618-ynjb?utm_source=share&utm_medium=member_desktop
 
 
