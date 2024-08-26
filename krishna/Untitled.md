@@ -64,3 +64,30 @@ Don't miss out on this incredible chance to learn from the best in the industry.
 
 
 6 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗦𝗸𝗶𝗹𝗹𝘀: 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 + 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗮𝘁 𝗜𝗻𝗱𝗿𝗮𝘀𝗵𝗶𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (Get ready for an action-packed 𝗼𝗻𝗲-𝗱𝗮𝘆 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 where you'll dive deep into 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 to build robust fullstack applications! Learn from the best and enhance your skills with hands-on experience.) speaker   Sumit Chawla, CEO of Ultron Technologies.
+
+
+
+
+## Engineer's Day Celebration
+
+The Engineering Innovation Projects Group (EIPG) launched on Engineer's Day, fostering innovation among students under the guidance of Dr. Vishvjit Thakar, Dean and HOD of the School of Engineering.
+
+## IoT Devices Workshop
+
+Industry experts Mr. Sachin Soni (founder at TechieMS) and Mr. Kedar Upadhyay (co-founder and head of operations at TechieMS) led a hands-on IoT workshop, where students created projects controlling lights with Google Assistant.
+
+## Deep Learning Workshop
+
+Dr. Sachin Sharma, faculty member, conducted a comprehensive Deep Learning workshop at Swarrnim Startup & Innovation University, promoting inter-institutional collaboration.
+
+## Operating Systems and Cloud Computing
+
+Mr. Nilesh Vaghela, founder at Electromech, Cloudkida, and AWS Community Hero, delivered insights on Operating Systems and Cloud Computing, inspiring tech enthusiasts.
+
+## eInfochips Expert Series
+
+eInfochips and Indrashil University collaborated on workshops covering EV Chargers, Smart Transportation, Automation, and Software Testing. Speakers included industry experts Mr. Priyesh Pandya, Mr. Faiyaz Pisuwala, Mr. Bhavik Vora, and Mr. Anand Shah from eInfochips.
+
+## ReactJS and Firebase Workshop
+
+Sumit Chawla, CEO of Ultron Technologies, led an intensive fullstack development workshop on ReactJS and Firebase, enhancing participants' skills in modern web application development.
