@@ -1,6 +1,6 @@
 
 println("Hey,I am Krishna! A logical enthusiast about finding solutions");
-I am part of a humble community called EIPG - Engineering innovation projects group. I initiated this community a year ago. On the Engineers day on 15 September under the guidance of dean & HOD of School of engineering Dr Vishvjit Thakar
+I am part of a humble community called EIPG - Engineering innovation projects group. I initiated this community a year ago on the Engineers day on 15 September under the guidance of dean & HOD of School of engineering Dr Vishvjit Thakar
 
 Our community is a vibrant space where ideas flow freely and collaboration thrives. We've cultivated an environment that encourages every member to share their thoughts openly, fostering innovation and mutual growth. This open exchange of ideas allows concepts to evolve through collective input and refinement.
 
@@ -44,7 +44,8 @@ list  of  events
 
 
 list of event
-1  Engineer's day first event done by EIPG - Engineering innovation projects groups
+1  Engineer's day first event organized by EIPG - Engineering innovation projects groups 
+
 2 work shop on IOT devices (Students enjoyed the case studies discussed which arose their interest in the field and eventually they learned how to make their own IOT projects in which they were successfully able to control the light using Google Assistant.) speaker Mr sachin soni (founder at techiesms) & mr kedar upadhyay (co founder and head of operations at techiesms)
 
 3 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 hands on  𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 at Swarrnim Startup & Innovation University (this workshop was under the knowledge exchange program where our faculty DR sachin sharma went in Swarrnim Startup & Innovation University to conduct a hands on workshop on  𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  )
