@@ -51,4 +51,12 @@ list of event
 4 one day workshop on operating systems and cloud computing (Thrilled to have shared insights on Operating Systems and Cloud Computing delievered by Mr. Nilesh Vaghela at Indrashil University  on 24 January, 2024! 🌐💻 Grateful for the engaging discussions and the opportunity to empower the next generation of tech enthusiasts. Let's continue to explore the ever-evolving landscape of technology together!) speacker Mr Nilesh  vaghela (founde at electromech ,cloudkida, aws community hero ex aai, rhci)
 
 
-5 expert workshop taken by experts at einfochps ()
+5 expert workshop taken by experts at einfochps (🌟through workshops! 🌟  
+  
+In collaboration with Indrashil University, eInfochips presents an insightful workshop.  
+  
+Explore the latest happenings in the world of EV Chargers, Smart Transportation Systems, Intelligent Automation, and Advance Software Testing with experts from [hashtag#eInfochips](https://www.linkedin.com/feed/hashtag/?keywords=einfochips&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7188876841665867776). 🚗💡  
+  
+Organized by the Computer Science and Engineering Department, SoE, this workshop provides an opportunity to expand your knowledge and enrich your career. 📚  
+  
+Don't miss out on this incredible chance to learn from the best in the industry. See you there!)
