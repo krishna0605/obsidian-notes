@@ -107,3 +107,11 @@ there was this one time when we went to a "x" university for the inter-instituti
 "x" university denaid the program but we ended up contacting Mr. Nilesh Vaghela who took an expert session at our university and he help us trying to convince the university since he was a part of the aws community hero he was able to influnance the university and then they ended up doing a short program of 2 days 
 
 
+
+
+
+As a founding member of our university's community, I faced a significant challenge when a tier 1 university denied acknowledging our inter-institutional collaboration program. Despite explaining the program's advantages, particularly for tier 3 university students, they remained hesitant due to our community's limited recognition.
+
+Determined to address this obstacle, I took the initiative to contact Mr. Nilesh Vaghela, an AWS Community Hero who had previously conducted an expert session at our university. Leveraging his influence and expertise, we successfully convinced the tier 1 university to reconsider. As a result, they agreed to a short two-day program, opening doors for valuable knowledge exchange.
+
+This experience taught me the importance of persistence, networking, and leveraging external expertise to overcome institutional barriers. If selected as a GitHub Campus Expert, I would utilize the program's resources and global network to facilitate more inclusive collaborations between universities of different tiers. I would organize workshops and events that showcase the value of diverse perspectives in technology education, fostering a more equitable learning environment for all students.
