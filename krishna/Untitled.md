@@ -104,4 +104,4 @@ Can you tell us about a time when you took the lead in your community to address
 
 there was this one time when we went to a "x" university for the inter-institutional collaboration program but they denaid even acknowlegding the program just because our community was only recognised by our university and since our university comes in tier three and there universtiy is a teir 1 university and it was a well establish university , me as one of the founder member of this community i tried getting them onboard by tell them the advantage of this program but they still denaid getting onboard since the inter-institutional collaboration program helps a lot to the tier 3 university student  to get to the same knowlegde level as of the tier 1 university student 
 
-"x" university denaid the program but we ended up contacting Mr. Nilesh Vaghela who took an expert session 
+"x" university denaid the program but we ended up contacting Mr. Nilesh Vaghela who took an expert session at our university and he help us 
