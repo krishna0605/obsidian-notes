@@ -1,6 +1,6 @@
 
 println("Hey,I am Krishna! A logical enthusiast about finding solutions");
-I am part of a humble community called EIPG - Engineering innovation projects group. I initiated this community a year ago. 
+I am part of a humble community called EIPG - Engineering innovation projects group. I initiated this community a year ago. On the Engineers day 
 
 Our community is a vibrant space where ideas flow freely and collaboration thrives. We've cultivated an environment that encourages every member to share their thoughts openly, fostering innovation and mutual growth. This open exchange of ideas allows concepts to evolve through collective input and refinement.
 
