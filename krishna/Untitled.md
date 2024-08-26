@@ -102,4 +102,4 @@ Sumit Chawla, CEO of Ultron Technologies, led an intensive fullstack development
 Can you tell us about a time when you took the lead in your community to address a challenge? Please share the outcome, and how you would leverage your experience and the resources provided by the GitHub Campus Experts program to handle current or future obstacles
 
 
-there was this one time when we went to a "x" university for the inter-institutional collaboration program but they denaid even acknowlegding the program just because our community was only recognised by our university and since our university comes in tier three and there universtiy is a teir 1 university and it was a well establish uni
+there was this one time when we went to a "x" university for the inter-institutional collaboration program but they denaid even acknowlegding the program just because our community was only recognised by our university and since our university comes in tier three and there universtiy is a teir 1 university and it was a well establish university me as one of the founder member of this community i tried getting them onboard 
