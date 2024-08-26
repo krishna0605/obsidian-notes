@@ -49,3 +49,6 @@ list of event
 
 3 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 hands on  𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 at Swarrnim Startup & Innovation University (this workshop was under the knowledge exchange program where our faculty DR sachin sharma went in Swarrnim Startup & Innovation University to conduct a hands on workshop on  𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗼𝗳 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴  )
 4 one day workshop on operating systems and cloud computing (Thrilled to have shared insights on Operating Systems and Cloud Computing delievered by Mr. Nilesh Vaghela at Indrashil University  on 24 January, 2024! 🌐💻 Grateful for the engaging discussions and the opportunity to empower the next generation of tech enthusiasts. Let's continue to explore the ever-evolving landscape of technology together!) speacker Mr Nilesh  vaghela (founde at electromech ,cloudkida, aws community hero ex aai, rhci)
+
+
+4
