@@ -66,7 +66,10 @@ Don't miss out on this incredible chance to learn from the best in the industry.
 6 𝗕𝗼𝗼𝘀𝘁 𝗬𝗼𝘂𝗿 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗦𝗸𝗶𝗹𝗹𝘀: 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 + 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗮𝘁 𝗜𝗻𝗱𝗿𝗮𝘀𝗵𝗶𝗹 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 (Get ready for an action-packed 𝗼𝗻𝗲-𝗱𝗮𝘆 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 where you'll dive deep into 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 𝗮𝗻𝗱 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲 to build robust fullstack applications! Learn from the best and enhance your skills with hands-on experience.) speaker   Sumit Chawla, CEO of Ultron Technologies.
 
 
-
+JHVBASHJVJHasd
+ksbdHJASJDFBJHASJBAK ASBJHB nbszdasdsjbjh  asdbhasdbjkbasd
+bjasdjbjhbajsbdjhbJHBAjsjasdbjhaSBJHBZXJ CJH As
+ ASBNDKJBASDH
 
 ## Engineer's Day Celebration
 
