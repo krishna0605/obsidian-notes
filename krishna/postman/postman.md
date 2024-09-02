@@ -5,3 +5,6 @@ I am part of a community called EIPG - Engineering Innovation Projects Group, wh
 We utilize a tech stack to connect like-minded individuals working on similar ideas, allowing them to elevate their projects. As the initiator, I focus on building our network and involving more industry experts so that we can all learn and create together. Over the past year, we have organized several expert-led, hands-on sessions.
 
 These collaborative sessions with industry experts have been particularly impactful. They focus on sharing experiences and practical knowledge, including the mistakes made by experts during their learning stages. This provides invaluable insights into professional growth and project development.
+
+
+
