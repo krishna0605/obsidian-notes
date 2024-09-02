@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github campus experts/question 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github campus experts/question 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -188,8 +188,11 @@
   },
   "active": "ed461290f83c9d76",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled.canvas",
+    "postman/postman.md",
     "github campus experts/question 1.md",
+    "postman",
+    "Untitled.md",
     "github campus experts/poiint.md",
     "Untitled 1.canvas",
     "NextJS/NextJS (Client side).md",
@@ -231,10 +234,7 @@
     "~syncthing~IMG20240810120221.jpg.tmp",
     "~syncthing~IMG_20240810_153822.jpg.tmp",
     "GDG cloud community day/~syncthing~Key note 1.md.tmp",
-    "~syncthing~IMG_20240810_111423.jpg.tmp",
     "notes/dynamic malware analysis.md",
-    "svelte/Custom elements API.md",
-    "Untitled 2.canvas",
-    "Untitled.canvas"
+    "Untitled 2.canvas"
   ]
 }
