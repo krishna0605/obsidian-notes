@@ -25,46 +25,38 @@ Automation: Collections enable me to automate tests and monitor API performance,
 
 Overall, Collections streamline my API development process, enhance collaboration, and significantly improve productivity in my daily work.
 
+Promoting API Literacy on Campus: Strategies for Postman Student Leaders
+Hands-on Workshops
+-> Organize regular API workshops using Postman
+-> Cover basics to advanced topics, catering to different skill levels
+-> Include practical exercises and real-world examples
 
+API Hackathons
+-> Host API-focused hackathons to encourage practical application
+-> Provide mentorship from industry experts during the event
+-> Showcase innovative projects using APIs
 
-## Hands-on Workshops
+Guest Speaker Series
+-> Invite API professionals to share their experiences
+-> Focus on practical knowledge and common pitfalls in API development
+-> Organize Q&A sessions for students to interact with experts
 
-- Organize regular API workshops using Postman
-- Cover basics to advanced topics, catering to different skill levels
-- Include practical exercises and real-world examples
+API Documentation Challenge
+-> Create a contest for students to document APIs effectively
+-> Emphasize the importance of clear documentation in API literacy
+-> Offer prizes for the most comprehensive and user-friendly documentation
 
-## API Hackathons
+API Integration Projects
+-> Collaborate with various departments to integrate APIs into their projects
+-> Showcase how APIs can enhance existing applications across disciplines
+-> Encourage interdisciplinary teams to work on API-driven solutions
 
-- Host API-focused hackathons to encourage practical application
-- Provide mentorship from industry experts during the event
-- Showcase innovative projects using APIs
+Online Learning Resources
+-> Create a dedicated website or use existing platforms to share API resources
+-> Develop video tutorials on API concepts and Postman usage
+-> Curate a list of free online courses and documentation for self-paced learning
 
-## Guest Speaker Series
-
-- Invite API professionals to share their experiences
-- Focus on practical knowledge and common pitfalls in API development
-- Organize Q&A sessions for students to interact with experts
-
-## API Documentation Challenge
-
-- Create a contest for students to document APIs effectively
-- Emphasize the importance of clear documentation in API literacy
-- Offer prizes for the most comprehensive and user-friendly documentation
-
-## API Integration Projects
-
-- Collaborate with various departments to integrate APIs into their projects
-- Showcase how APIs can enhance existing applications across disciplines
-- Encourage interdisciplinary teams to work on API-driven solutions
-
-## Online Learning Resources
-
-- Create a dedicated website or use existing platforms to share API resources
-- Develop video tutorials on API concepts and Postman usage
-- Curate a list of free online courses and documentation for self-paced learning
-
-## API Mentorship Program
-
-- Pair experienced API users with beginners for one-on-one guidance
-- Organize regular meetups to discuss progress and challenges
-- Encourage mentors to share their real-world API experiences
+API Mentorship Program
+-> Pair experienced API users with beginners for one-on-one guidance
+-> Organize regular meetups to discuss progress and challenges
+-> Encourage mentors to share their real-world API experiences
