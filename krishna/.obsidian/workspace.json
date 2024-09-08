@@ -57,9 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f439f788f4ca3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -186,13 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed461290f83c9d76",
+  "active": "1f439f788f4ca3ac",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "Untitled.canvas",
     "github campus experts/question 1.md",
     "github campus experts/poiint.md",
     "postman/postman.md",
-    "Untitled.md",
     "postman",
     "Untitled 1.canvas",
     "NextJS/NextJS (Client side).md",
