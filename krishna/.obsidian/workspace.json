@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "svelte/Server-side component API.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "svelte/Server-side component API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "svelte/Server-side component API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "svelte/Server-side component API.md"
               }
             }
           }
@@ -200,15 +200,17 @@
   },
   "active": "1f439f788f4ca3ac",
   "lastOpenFiles": [
-    "Untitled.md",
+    "svelte/Custom elements API.md",
+    "NextJS/NextJS (Client side).md",
+    "NextJS/NextJS (Server side).md",
     "Untitled 1.md",
+    "Untitled.md",
     "Untitled.canvas",
     "github campus experts/question 1.md",
     "github campus experts/poiint.md",
     "postman/postman.md",
     "postman",
     "Untitled 1.canvas",
-    "NextJS/NextJS (Client side).md",
     "kubernettes/kubernetes 3.md",
     "kubernettes/kubernetes 2.md",
     "kubernettes/kubernetes 1.md",
@@ -236,7 +238,6 @@
     "notes/Phishing Attack.md",
     "GDG cloud community day/images/IMG20240810153217.jpg",
     "GDG cloud community day/images/IMG_20240810_105026.jpg",
-    "xampp to google cloud.md",
     "GDG cloud community day/images/IMG_20240810_112203.jpg",
     "GDG cloud community day/images/IMG_20240810_104341.jpg",
     "GDG cloud community day/images/IMG_20240810_154113.jpg",
@@ -247,7 +248,6 @@
     "~syncthing~IMG20240810120221.jpg.tmp",
     "~syncthing~IMG_20240810_153822.jpg.tmp",
     "GDG cloud community day/~syncthing~Key note 1.md.tmp",
-    "notes/dynamic malware analysis.md",
     "Untitled 2.canvas"
   ]
 }
