@@ -68,3 +68,6 @@ API Mentorship Program
 I founded EIPG, a community for open idea sharing and collaboration. We connect like-minded individuals, involve industry experts, and organize hands-on sessions, providing insights for professional growth and project development
 
 Collections in Postman revolutionize API development. They enable organization, workflow testing, collaboration, reusability, and automation. By grouping requests, running tests, sharing configurations, and automating tasks.
+
+
+ through hands-on workshops, hackathons, guest speakers, documentation challenges, integration projects, online resources, and mentorship programs. These initiatives cover practical skills, real-world applications, expert insights, and collaborative learning
