@@ -59,3 +59,10 @@ API Mentorship Program
 - Pair experienced API users with beginners for one-on-one guidance
 - Organize regular meetups to discuss progress and challenges
 - Encourage mentors to share their real-world API experiences
+
+
+
+
+
+
+I founded EIPG, a community for open idea sharing and collaboration. We connect like-minded individuals, involve industry experts, and organize hands-on sessions, providing insights for professional growth and project development
