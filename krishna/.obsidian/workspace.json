@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "svelte/Server-side component API.md",
+                "file": "github campus experts/question 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "svelte/Server-side component API.md",
+                "file": "github campus experts/question 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "svelte/Server-side component API.md"
+                "file": "github campus experts/question 1.md"
               }
             }
           }
@@ -198,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f439f788f4ca3ac",
+  "active": "35b1db5131f1db0e",
   "lastOpenFiles": [
+    "svelte/Server-side component API.md",
     "svelte/Custom elements API.md",
     "NextJS/NextJS (Client side).md",
     "NextJS/NextJS (Server side).md",
@@ -235,7 +236,6 @@
     "GDG cloud community day/images/IMG_20240810_104147.jpg",
     "GDG cloud community day/images/IMG_20240810_103950.jpg",
     "GDG cloud community day/images",
-    "notes/Phishing Attack.md",
     "GDG cloud community day/images/IMG20240810153217.jpg",
     "GDG cloud community day/images/IMG_20240810_105026.jpg",
     "GDG cloud community day/images/IMG_20240810_112203.jpg",
